@@ -5,4 +5,5 @@ public class login {
    String lname;
    int contact;
    int no;
+   int a;
 }
